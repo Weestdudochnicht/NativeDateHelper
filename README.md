@@ -1,2 +1,2 @@
 # NativeDateHelper
-This is a Helper Class for an intiutive Usage of the native javascript Date Object
+This is a Helper-Class for an intiutive usage of the native javascript Date-Object
